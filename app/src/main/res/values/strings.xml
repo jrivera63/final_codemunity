@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">codemunity</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="cm">Codemunity</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="conPassword">Confirm Password</string>
+    <string name="createAccount">Create Account</string>
+    <string name="timeline">Timeline</string>
+    <string name="user1">Susan Wilson</string>
+    <string name="user2">Jason Sanders</string>
+    <string name="post1Text">Just about to finish this project</string>
+    <string name="post2Text">Can\'t figure out this bug. Any ideas?</string>
+    <string name="viewComment">View Comments</string>
+    <string name="editAccount">Edit Account</string>
+    <string name="confirmButton">Confirm</string>
+    <string name="posts">3 Posts</string>
+    <string name="followers">5 Followers</string>
+    <string name="following">10 Following</string>
+    <string name="traits">Traits</string>
+    <string name="skills">Skills</string>
+    <string name="experi">Experience</string>
+    <string name="passwordError">Passwords do not match</string>
+    <string name="emailError">Please enter an email</string>
+    <string name="nameError">Please fill out both name fields</string>
+</resources>

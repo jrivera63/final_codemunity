@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/facebook"
+        android:title="Facebook"
+        android:icon="@drawable/facebook"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/insta"
+        android:title="Instagram"
+        android:icon="@drawable/insta"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/twitter"
+        android:title="Twitter"
+        android:icon="@drawable/twitter"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/pinterest"
+        android:title="Pinterest"
+        android:icon="@drawable/pinterest"
+        app:showAsAction="always"
+        />
+</menu>
